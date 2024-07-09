@@ -5,26 +5,15 @@ date: "`r Sys.Date()`"
 output: word_document
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
+## What I did in my assignment.
 
-## R Markdown
+-  I linked my **RStudio** and **GitHub**.  
+-  I created an assignment repository in **GitHub**.  
+-  I create *RStudio project* from the version control of the created repository.  
 
-This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+I have created two files:  
 
-When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
+1.  R script for greeting (*greeting.R*)  
+2.  R markdown about this assignment. (*assignment_assemble_toolbox_kmk.Rmd*)  
 
-```{r cars}
-summary(cars)
-```
-
-## Including Plots
-
-You can also embed plots, for example:
-
-```{r pressure, echo=FALSE}
-plot(pressure)
-```
-
-Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+[Access my repository here](https://github.com/kaungMyat-Khant/assemble_toolbox_kmk.git)
